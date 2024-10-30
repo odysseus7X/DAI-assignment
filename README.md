@@ -1,4 +1,6 @@
 # DAI-assignment
-Name - Surendrapal singh chouhan\n
-Batch - ME-6\n
+Name - Surendrapal singh chouhan
+
+Batch - ME-6
+
 enroll no. - 23117138
